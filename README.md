@@ -12,7 +12,7 @@
   * 安装依赖包
 
     ```bash
-    pip install -r requirements
+    pip install -r requirements.txt
     ```
 
   * 修改代码内用户信息及微信公众号信息
@@ -48,7 +48,7 @@
   * 运行程序
 
     ```bash
-    python3 hebust_linrary.py
+    python3 hebust_library.py
     ```
 
 * 推送效果展示
