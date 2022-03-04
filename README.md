@@ -52,6 +52,7 @@
     ```
 
 * 推送效果展示
+
 <img src="img/result1.jpg" width="400"><img src="img/result2.jpg" width="400"><img src="img/result3.jpg" width="400">
 
 * 可选操作及建议
